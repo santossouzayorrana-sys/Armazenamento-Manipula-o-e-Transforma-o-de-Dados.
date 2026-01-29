@@ -1,4 +1,4 @@
-![banner](assert.png)
+![banner](assert/banner.png)
 
 # Armazenamento-Manipula-o-e-Transforma-o-de-Dados.
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
